@@ -1,0 +1,3 @@
+[submodule "egs/tta/audiocaps"]
+	path = egs/tta/audiocaps
+	url = https://github.com/cdjkim/audiocaps

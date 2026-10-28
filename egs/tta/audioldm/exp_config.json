@@ -4,8 +4,8 @@
       "AudioCaps"
     ],
     "preprocess": {
-      // Specify the output root path to save the processed data 
-      "processed_dir": "data",
+      // Specify the output root path to save the processed data
+      "processed_dir": "/Amphion-GDSC-AI-Project/egs/tta/audiocaps/dataset/train.csv",
       // For example: "/home/TTADataset/processed_data"
 
       // feature

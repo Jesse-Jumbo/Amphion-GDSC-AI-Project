@@ -1,0 +1,15 @@
+displayName: AudioCaps
+labelTypes:
+- Transactions
+license:
+- MIT
+mediaTypes:
+- Audio
+- Text
+paperUrl: https://aclanthology.org/N19-1011/
+publishDate: ""
+publishUrl: https://github.com/cdjkim/audiocaps
+publisher: []
+tags: []
+taskTypes:
+- Audio Generation
